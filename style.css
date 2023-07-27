@@ -1,0 +1,232 @@
+*{
+    margin: 00;
+    padding: 00;
+}
+
+.logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.navbar{
+    display: flex;
+    height: 10%;
+}
+
+.nav-list{
+    display: flex;
+    width: 50%;
+    align-items: center;
+     
+}
+
+.nav-list li{
+    list-style: none;
+    padding: 25px;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    text-decoration: solid;
+    color: #000;
+    
+    
+
+}
+
+.nav-list li a:hover{
+   text-decoration: none;
+   color: red;
+}
+
+
+.right-nav{
+    text-align: right;
+    width: 50%;
+    padding: 20px;
+}
+
+.navbar backgound{
+    padding: 15px;
+}
+
+.btn-sm{
+    height: 20px;
+    width: 60px;
+    background: transparent;
+    border-radius: 5px;
+    vertical-align: text-bottom;
+}
+
+#search{
+    width: 200px;
+    height: 25px;
+    padding: 4px;
+    font-size: 17px;
+    border: 2px solid gray;
+    border-radius: 9px;
+    
+}
+
+
+
+.backgound{
+    background: rgba(0, 0, 0, 0) url('Images/bg.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+
+}
+
+.firstSection{
+    height: 1000;
+}
+
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-style: oblique;
+    width: 50%;
+    margin: auto;
+    
+    
+}
+
+.text-big{
+    font-size: 25 px;
+}
+
+.firstHalf{
+    text-align: justify;
+    height: 25px;
+}
+
+.secoundHalf img{
+    width: 250%;
+    display: block;
+    margin: auto;
+}
+
+.btn{
+    padding: 8px 20px;
+    margin: 7px 0px;
+    border: 2px solid white;
+    border-radius: 18px;
+    background: none;
+    cursor: pointer;
+
+}
+
+.section{
+    display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 80%;
+    width: 71%
+}
+
+.big{
+    font-size: 40px;
+    text-align:left;
+    margin: 18px 0px;
+}
+
+.small{
+    text-align: justify;
+    font-size: 116%;
+   
+   margin: 20px 0px -59px;
+}
+
+.image{
+    width: 00px;
+    margin: 0%;
+    margin: 5px -2px -65px;
+}
+
+.paras{
+    padding: 94px; 
+    padding: 4px 111px  
+}
+
+.ImgLogo{
+    width: 450px;
+    display: block;
+    margin: 5px 4px 36px -82px;
+  
+}
+
+
+.image img{
+    height: 187px;
+    width: 225px; 
+    margin: 5px;
+    border: transparent;
+    border-radius: 49px;
+}
+
+.secDown {
+    background-color: #f3eeee;
+    height: 200%;
+}
+
+.Contact{
+    text-align: center;
+    font-size: 24px;
+    font-style: oblique;
+    padding: 15px 2px 0px;
+    font-family: sans-serif;
+}
+
+.ConSerch{
+    padding: 10px;
+    margin: 12px;
+    width: 700px;
+    height: 30px;
+}
+
+.from{
+    text-align: center;
+}
+
+.table{
+    text-align: center;
+}
+
+.input{
+    width: 698px;
+    height: 180px;
+}
+
+.btnfee{
+    position: relative;
+    left: -309px;
+    top: 6px;
+    padding: 5px;
+    width: 79px;
+    border-radius: 6px;
+}
+
+.Footer{
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    background-color: rgb(161, 164, 167);
+    height: 5%;
+    font-size: 20 px;
+}
+
+
+
+
+
+
